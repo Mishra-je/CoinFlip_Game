@@ -25,3 +25,8 @@ body {
 	padding: 3px 0 3px 0;
 	float: right;
 }
+
+.change{
+	 justify-content: space-between;
+	
+}
