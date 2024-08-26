@@ -32,11 +32,4 @@ To run your own ethereum coin flip instance:
 
 ## TODO
 
-### UI:
 
-- Implement DataTables (https://datatables.net) in Last Played Games.
-- Implement tabs, rename 'Last Played Games' to 'Last 10 Bets' and implement 'Wins' table.
-- Rewrite UpdateGamesTable() function to manage all table updates.
-- Change loading spinner, provide better gaming experience.
-- New website sections.
-- Try to explain the game better in jumbotron.
