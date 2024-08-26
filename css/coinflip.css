@@ -1,0 +1,26 @@
+
+body {
+  padding-top: 2rem;
+}
+
+#loader {
+    width: 150px;
+    display: none;
+}
+
+#alert {
+    display: none;
+}
+
+#lastPlayedGamesTable .win td {
+	color: green;
+}
+
+#lastPlayedGamesTable .loose td {
+	color: red;
+}
+
+.soundSwitch {
+	color: #fff;
+	padding: 3px 0 3px 0;
+}
