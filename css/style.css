@@ -32,3 +32,6 @@ body {
 	 justify-content: space-between;
 	
 }
+.navbar-nav {
+  background: none;
+}
